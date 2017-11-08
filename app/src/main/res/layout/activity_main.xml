@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<FrameLayout-->
+    <!--android:id="@+id/container"-->
+    <!--tools:context=".MainActivity"-->
+    <!--android:background="#000"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_width="match_parent"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"/>-->
+
+<TextureView
+    android:id="@+id/cam_view"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    />
